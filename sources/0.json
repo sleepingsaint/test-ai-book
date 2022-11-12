@@ -1,0 +1,11 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 1,
+            "title": "Distill Pub Blog",
+            "url": "https://distill.pub/",
+            "numResources": 32
+        }
+    ]
+}

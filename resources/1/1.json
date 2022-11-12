@@ -1,0 +1,21 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 31,
+            "title": "How to Use t-SNE Effectively",
+            "url": "https://distill.pub/2016/misread-tsne",
+            "authors": "Martin\u00a0Wattenberg, Fernanda\u00a0Vi\u00e9gas, and Ian\u00a0Johnson",
+            "tags": "",
+            "publishedOn": "2016-10-13T00:00:00"
+        },
+        {
+            "id": 32,
+            "title": "Attention and Augmented Recurrent Neural Networks",
+            "url": "https://distill.pub/2016/augmented-rnns",
+            "authors": "Chris\u00a0Olah and Shan\u00a0Carter",
+            "tags": "",
+            "publishedOn": "2016-09-08T00:00:00"
+        }
+    ]
+}
