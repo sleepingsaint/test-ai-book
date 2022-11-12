@@ -36,7 +36,8 @@ jobs:
               echo "database doesn't exists"
               echo $DATABASE_URL
           fi 
-          
+      - name: listing files
+        run: ls -la
       - name: fetching the new resources of the sources
         env:
           REFETCH: 1
