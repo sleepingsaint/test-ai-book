@@ -26,7 +26,8 @@ jobs:
       
       - name: download database
         env:
-          DATABASE_URL: https://media.githubusercontent.com/media/${{github.repository}}/db/database.db
+          DATABASE_URL: https://github.com/sleepingsaint/test-ai-book/raw/db/database.db
+          # DATABASE_URL: https://media.githubusercontent.com/media/${{github.repository}}/db/database.db
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
