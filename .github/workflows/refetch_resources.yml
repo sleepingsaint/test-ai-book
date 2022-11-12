@@ -1,12 +1,9 @@
-name: Fetch new resources
+name: ReFetch resources
 
 concurrency: 
   group: ai_book
 
-on:
-  workflow_dispatch:
-  # schedule:
-  #   - cron: '0 * * * *'
+on: workflow_dispatch
 
 jobs:
   pythonSources:
@@ -33,6 +30,8 @@ jobs:
           fi 
         
       - name: fetching the new resources of the sources
+        env:
+          REFETCH: 1
         run: |
           for file in scrappers/python/[a-zA-Z0-9]*.py; do
             baseFilename="$(basename $file)"
