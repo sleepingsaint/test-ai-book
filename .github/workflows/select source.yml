@@ -36,8 +36,7 @@ jobs:
               echo "database doesn't exists"
               echo $DATABASE_URL
           fi 
-      - name: listing files
-        run: ls -la
+      
       - name: fetching the new resources of the sources
         env:
           REFETCH: 1
@@ -56,8 +55,7 @@ jobs:
           rm -rf README.md
           rm -rf requirements.txt
           rm -rf .gitignore
-      - name: listing files again
-        run: ls -la
+      
       - name: update the database branch with new resources
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
