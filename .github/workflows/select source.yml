@@ -1,5 +1,8 @@
 name: Select source
 
+concurrency: 
+  group: ai_book
+  
 on: 
   workflow_dispatch:
     inputs:
