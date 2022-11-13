@@ -21,7 +21,7 @@ jobs:
       
       - name: download database
         env:
-          DATABASE_URL: https://github.com/${{github.repository}}/raw/db/database.db
+          DATABASE_URL: https://raw.githubusercontent.com/{{github.repository}}/db/database.db
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
