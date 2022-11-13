@@ -56,6 +56,9 @@ jobs:
           rm -rf requirements.txt
           rm -rf .gitignore
       
+      - name: checking modified files
+        run: git status
+
       - name: update the database branch with new resources
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
