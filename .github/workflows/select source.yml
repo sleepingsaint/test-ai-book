@@ -26,7 +26,6 @@ jobs:
       
       - name: download database
         env:
-          LOOKUP_URL: https://github.com/${{github.repository}}/raw/db/database.db
           DATABASE_URL: https://raw.githubusercontent.com/${{github.repository}}/db/database.db
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
@@ -66,6 +65,5 @@ jobs:
         with:
           commit_message: "Updated database of python sources"
           branch: db
-          add_options: "."
           push_options: '--force'
           create_branch: true
