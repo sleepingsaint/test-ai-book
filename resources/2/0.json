@@ -1,0 +1,245 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 33,
+            "title": "Neural Magic Leverages Breakthrough Performance of 4th Gen AMD EPYC\u2122 Processors For Machine Learning Workloads",
+            "url": "https://neuralmagic.com/blog/neural-magic-and-amd-leverage-breakthrough-performance-of-4th-gen-amd-epyc-processors-for-machine-learning-workloads/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-11-10T00:00:00"
+        },
+        {
+            "id": 34,
+            "title": "Neural Magic 1.2 Product Release",
+            "url": "https://neuralmagic.com/blog/neural-magic-1-2-product-release/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-11-07T00:00:00"
+        },
+        {
+            "id": 35,
+            "title": "Classifying Finance Tweets in Real-Time with Sparse Transformers",
+            "url": "https://neuralmagic.com/blog/classifying-finance-tweets-in-real-time-with-sparse-transformers/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-11-01T00:00:00"
+        },
+        {
+            "id": 36,
+            "title": "Build Efficient Vector Search on CPUs with Neural Magic and Weaviate",
+            "url": "https://neuralmagic.com/blog/build-faster-and-more-economical-ml-deployments-with-neural-magic-and-weaviate/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00"
+        },
+        {
+            "id": 37,
+            "title": "Faster Zero-Shot Learning with Sparsity",
+            "url": "https://neuralmagic.com/blog/faster-zero-shot-learning-with-sparsity/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-10-05T00:00:00"
+        },
+        {
+            "id": 38,
+            "title": "Neural Magic Introduces Sparsity to MLPerf, Boosting CPU Performance 175x",
+            "url": "https://neuralmagic.com/blog/neural-magic-announces-mlperf-inference-benchmarks/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-09-08T00:00:00"
+        },
+        {
+            "id": 39,
+            "title": "YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance and a Smaller Footprint",
+            "url": "https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-09-07T00:00:00"
+        },
+        {
+            "id": 40,
+            "title": "Neural Magic CE 1.1 and 1.0 Product Releases",
+            "url": "https://neuralmagic.com/blog/neural-magic-ce-1-1-and-1-0-product-releases/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-09-01T00:00:00"
+        },
+        {
+            "id": 41,
+            "title": "BERT-Large: Prune Once for DistilBERT Inference Performance",
+            "url": "https://neuralmagic.com/blog/bert-large-prune-once-for-distilbert-inference-performance/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-07-15T00:00:00"
+        },
+        {
+            "id": 42,
+            "title": "ResNet-50 on CPUs: Sparsifying for Better Performance on CPUs",
+            "url": "https://neuralmagic.com/blog/benchmark-resnet50-with-deepsparse/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-07-11T00:00:00"
+        },
+        {
+            "id": 43,
+            "title": "Come Build the Future with Labs by Neural Magic",
+            "url": "https://neuralmagic.com/blog/labs-by-neural-magic/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-20T00:00:00"
+        },
+        {
+            "id": 44,
+            "title": "Deploy Sparse DistilBERT with the DeepSparse Engine on AWS SageMaker for a 7x Increase in Performance",
+            "url": "https://neuralmagic.com/blog/deepsparse-engine-aws-sagemaker/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-16T00:00:00"
+        },
+        {
+            "id": 45,
+            "title": "Neural Magic at CVPR 2022",
+            "url": "https://neuralmagic.com/blog/neural-magic-at-cvpr-2022/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-02T00:00:00"
+        },
+        {
+            "id": 46,
+            "title": "oBERT: Compound Sparsification Delivers Faster Accurate Models for NLP",
+            "url": "https://neuralmagic.com/blog/obert/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-05-20T00:00:00"
+        },
+        {
+            "id": 47,
+            "title": "Neural Magic Joins MLCommons to Help Accelerate ML Innovation Through Transparency and Open Source",
+            "url": "https://neuralmagic.com/blog/neural-magic-joins-mlcommons/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-04-06T00:00:00"
+        },
+        {
+            "id": 48,
+            "title": "Video: Azure, AMD, and Neural Magic Raise the Bar for High-Performance Computing",
+            "url": "https://neuralmagic.com/blog/azure-amd-neural-magic-high-performance-computing/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-03-22T00:00:00"
+        },
+        {
+            "id": 49,
+            "title": "Increasing Inference Performance with Sparsity and AMD Milan-X",
+            "url": "https://neuralmagic.com/blog/sparse-peformance-on-amd-milan-x/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-03-21T00:00:00"
+        },
+        {
+            "id": 50,
+            "title": "Neural Magic CE 0.7, 0.8, and 0.9 Product Releases",
+            "url": "https://neuralmagic.com/blog/neural-magic-ce-0-7-0-8-and-0-9-product-releases/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-12-08T00:00:00"
+        },
+        {
+            "id": 51,
+            "title": "Sparsify Hugging Face BERT for Better CPU Performance & Smaller File Size",
+            "url": "https://neuralmagic.com/blog/sparsify-hugging-face-bert-for-better-cpu-performance-smaller-file-size/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-10-08T00:00:00"
+        },
+        {
+            "id": 52,
+            "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
+            "url": "https://neuralmagic.com/blog/neural-magic-series-a/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-10-05T00:00:00"
+        },
+        {
+            "id": 53,
+            "title": "Pruning Hugging Face BERT: Using Compound Sparsification for Faster CPU Inference with Better Accuracy",
+            "url": "https://neuralmagic.com/blog/pruning-hugging-face-bert-compound-sparsification/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-08-23T00:00:00"
+        },
+        {
+            "id": 54,
+            "title": "Neural Magic CE 0.5 and 0.6 Product Releases",
+            "url": "https://neuralmagic.com/blog/neural-magic-ce-0-5-and-0-6-product-releases/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-08-19T00:00:00"
+        },
+        {
+            "id": 55,
+            "title": "New Tutorial: Sparsifying YOLOv3 Using Recipes",
+            "url": "https://neuralmagic.com/blog/sparsifying-yolov3-using-recipes-tutorial/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-05-25T00:00:00"
+        },
+        {
+            "id": 56,
+            "title": "Neural Magic Appoints Brian Stevens as Chief Executive Officer",
+            "url": "https://neuralmagic.com/blog/neural-magic-appoints-brian-stevens-as-chief-executive-officer/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-05-10T00:00:00"
+        },
+        {
+            "id": 57,
+            "title": "YOLOv3 on CPUs: Sparsifying to Achieve GPU-Level Performance",
+            "url": "https://neuralmagic.com/blog/benchmark-yolov3-on-cpus-with-deepsparse/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-03-29T00:00:00"
+        },
+        {
+            "id": 58,
+            "title": "How Neural Magic's Deep Sparse Technology Works",
+            "url": "https://neuralmagic.com/blog/how-neural-magics-deep-sparse-technology-works/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-03-16T00:00:00"
+        },
+        {
+            "id": 59,
+            "title": "Accelerating Machine Learning Inference on CPU with VMware vSphere and Neural Magic",
+            "url": "https://neuralmagic.com/blog/accelerating-machine-learning-inference-on-cpu-with-vmware-vsphere-and-neural-magic/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-02-25T00:00:00"
+        },
+        {
+            "id": 60,
+            "title": "Sparsify is Open Sourced - Try it Now",
+            "url": "https://neuralmagic.com/blog/sparsify-is-on-github-try-it-now/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-02-04T00:00:00"
+        },
+        {
+            "id": 61,
+            "title": "Neural Magic 1.4 Product Release",
+            "url": "https://neuralmagic.com/blog/neural-magic-1-4-product-release/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-01-08T00:00:00"
+        },
+        {
+            "id": 62,
+            "title": "Product Release Notes",
+            "url": "https://neuralmagic.com/blog/release-notes/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-01-04T00:00:00"
+        }
+    ]
+}

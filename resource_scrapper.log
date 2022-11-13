@@ -1,0 +1,77 @@
+[INFO]:[2022-11-13 06:50:08,099]:[Neural Magic Blog] [SOURCE]:[ADD] Neural Magic Blog
+[INFO]:[2022-11-13 06:50:08,099]:[Neural Magic Blog] ====== WebDriver manager ======
+[INFO]:[2022-11-13 06:50:08,259]:[Neural Magic Blog] Get LATEST chromedriver version for google-chrome 107.0.5304
+[INFO]:[2022-11-13 06:50:08,353]:[Neural Magic Blog] There is no [linux64] chromedriver for browser 107.0.5304 in cache
+[INFO]:[2022-11-13 06:50:08,353]:[Neural Magic Blog] About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
+[INFO]:[2022-11-13 06:50:08,623]:[Neural Magic Blog] Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/107.0.5304]
+[INFO]:[2022-11-13 06:50:10,937]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Leverages Breakthrough Performance of 4th Gen AMD EPYC™ Processors For Machine Learning Workloads
+[INFO]:[2022-11-13 06:50:11,007]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic 1.2 Product Release
+[INFO]:[2022-11-13 06:50:11,072]:[Neural Magic Blog] [RESOURCE]:[ADD] Classifying Finance Tweets in Real-Time with Sparse Transformers
+[INFO]:[2022-11-13 06:50:11,140]:[Neural Magic Blog] [RESOURCE]:[ADD] Build Efficient Vector Search on CPUs with Neural Magic and Weaviate
+[INFO]:[2022-11-13 06:50:11,206]:[Neural Magic Blog] [RESOURCE]:[ADD] Faster Zero-Shot Learning with Sparsity
+[INFO]:[2022-11-13 06:50:11,275]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Introduces Sparsity to MLPerf, Boosting CPU Performance 175x
+[INFO]:[2022-11-13 06:50:11,346]:[Neural Magic Blog] [RESOURCE]:[ADD] YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance and a Smaller Footprint
+[INFO]:[2022-11-13 06:50:11,433]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic CE 1.1 and 1.0 Product Releases
+[INFO]:[2022-11-13 06:50:11,498]:[Neural Magic Blog] [RESOURCE]:[ADD] BERT-Large: Prune Once for DistilBERT Inference Performance
+[INFO]:[2022-11-13 06:50:11,562]:[Neural Magic Blog] [RESOURCE]:[ADD] ResNet-50 on CPUs: Sparsifying for Better Performance on CPUs
+[INFO]:[2022-11-13 06:50:12,569]:[Neural Magic Blog] [RESOURCE]:[ADD] Come Build the Future with Labs by Neural Magic
+[INFO]:[2022-11-13 06:50:12,634]:[Neural Magic Blog] [RESOURCE]:[ADD] Deploy Sparse DistilBERT with the DeepSparse Engine on AWS SageMaker for a 7x Increase in Performance
+[INFO]:[2022-11-13 06:50:12,704]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic at CVPR 2022
+[INFO]:[2022-11-13 06:50:12,769]:[Neural Magic Blog] [RESOURCE]:[ADD] oBERT: Compound Sparsification Delivers Faster Accurate Models for NLP
+[INFO]:[2022-11-13 06:50:12,834]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Joins MLCommons to Help Accelerate ML Innovation Through Transparency and Open Source
+[INFO]:[2022-11-13 06:50:12,902]:[Neural Magic Blog] [RESOURCE]:[ADD] Video: Azure, AMD, and Neural Magic Raise the Bar for High-Performance Computing
+[INFO]:[2022-11-13 06:50:12,967]:[Neural Magic Blog] [RESOURCE]:[ADD] Increasing Inference Performance with Sparsity and AMD Milan-X
+[INFO]:[2022-11-13 06:50:13,036]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic CE 0.7, 0.8, and 0.9 Product Releases
+[INFO]:[2022-11-13 06:50:13,105]:[Neural Magic Blog] [RESOURCE]:[ADD] Sparsify Hugging Face BERT for Better CPU Performance & Smaller File Size
+[INFO]:[2022-11-13 06:50:13,172]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Announces $30 Million Series A Funding Led by NEA
+[INFO]:[2022-11-13 06:50:14,097]:[Neural Magic Blog] [RESOURCE]:[ADD] Pruning Hugging Face BERT: Using Compound Sparsification for Faster CPU Inference with Better Accuracy
+[INFO]:[2022-11-13 06:50:14,163]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic CE 0.5 and 0.6 Product Releases
+[INFO]:[2022-11-13 06:50:14,232]:[Neural Magic Blog] [RESOURCE]:[ADD] New Tutorial: Sparsifying YOLOv3 Using Recipes
+[INFO]:[2022-11-13 06:50:14,307]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Appoints Brian Stevens as Chief Executive Officer
+[INFO]:[2022-11-13 06:50:14,375]:[Neural Magic Blog] [RESOURCE]:[ADD] YOLOv3 on CPUs: Sparsifying to Achieve GPU-Level Performance
+[INFO]:[2022-11-13 06:50:14,444]:[Neural Magic Blog] [RESOURCE]:[ADD] How Neural Magic's Deep Sparse Technology Works
+[INFO]:[2022-11-13 06:50:14,518]:[Neural Magic Blog] [RESOURCE]:[ADD] Accelerating Machine Learning Inference on CPU with VMware vSphere and Neural Magic
+[INFO]:[2022-11-13 06:50:14,618]:[Neural Magic Blog] [RESOURCE]:[ADD] Sparsify is Open Sourced - Try it Now
+[INFO]:[2022-11-13 06:50:14,686]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic 1.4 Product Release
+[INFO]:[2022-11-13 06:50:14,754]:[Neural Magic Blog] [RESOURCE]:[ADD] Product Release Notes
+[INFO]:[2022-11-13 06:50:15,640]:[Neural Magic Blog] [RESOURCE]:[ADD] Using Sparse-Quantization in Inference: NeurIPS 2020
+[INFO]:[2022-11-13 06:50:15,707]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic at NeurIPS 2020
+[INFO]:[2022-11-13 06:50:15,776]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic 1.2 Product Release (Version Number Deprecated)
+[INFO]:[2022-11-13 06:50:15,852]:[Neural Magic Blog] [RESOURCE]:[ADD] Speeding Up Memory-Bound Object Detection Models: MobileNetV2_SSD
+[INFO]:[2022-11-13 06:50:15,921]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic End-to-End Demo Videos
+[INFO]:[2022-11-13 06:50:16,001]:[Neural Magic Blog] [RESOURCE]:[ADD] Part 4: Sparsity per Layer Hyperparameter
+[INFO]:[2022-11-13 06:50:16,073]:[Neural Magic Blog] [RESOURCE]:[ADD] Part 3: Gradual Magnitude Pruning (GMP) Hyperparameters
+[INFO]:[2022-11-13 06:50:16,145]:[Neural Magic Blog] [RESOURCE]:[ADD] Machine Learning Engineer Spotlight: Mani Sarkar
+[INFO]:[2022-11-13 06:50:16,226]:[Neural Magic Blog] [RESOURCE]:[ADD] Part 2: An Intro to Gradual Magnitude Pruning (GMP)
+[INFO]:[2022-11-13 06:50:16,299]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic 1.1 Product Release
+[INFO]:[2022-11-13 06:50:17,306]:[Neural Magic Blog] [RESOURCE]:[ADD] Part 1: What is Pruning in Machine Learning?
+[INFO]:[2022-11-13 06:50:17,375]:[Neural Magic Blog] [RESOURCE]:[ADD] Profile: Jeannie Finks
+[INFO]:[2022-11-13 06:50:17,444]:[Neural Magic Blog] [RESOURCE]:[ADD] How to Get Faster MobileNetV2 Performance on CPUs
+[INFO]:[2022-11-13 06:50:17,516]:[Neural Magic Blog] [RESOURCE]:[ADD] What deep learning models are in the Neural Magic Model Repo?
+[INFO]:[2022-11-13 06:50:17,584]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Launches High-Performance Inference Engine and Tool Suite for CPUs
+[INFO]:[2022-11-13 06:50:17,653]:[Neural Magic Blog] [RESOURCE]:[ADD] How to Run ResNet at a Fraction of the Cost
+[INFO]:[2022-11-13 06:50:17,728]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic, Cisco, and Intel Collaborate to Accelerate Deep Learning Performance
+[INFO]:[2022-11-13 06:50:17,798]:[Neural Magic Blog] [RESOURCE]:[ADD] Who is Neural Magic? How does it work?
+[INFO]:[2022-11-13 06:50:17,875]:[Neural Magic Blog] [RESOURCE]:[ADD] The combination of the right software and commodity hardware will prove capable of handling most machine learning tasks
+[INFO]:[2022-11-13 06:50:17,945]:[Neural Magic Blog] [RESOURCE]:[ADD] Companies Lack Resources to Get Deep Learning Models into Production [Survey]
+[INFO]:[2022-11-13 06:50:18,972]:[Neural Magic Blog] [RESOURCE]:[ADD] The Challenges of EfficientNets And the Way Forward
+[INFO]:[2022-11-13 06:50:19,042]:[Neural Magic Blog] [RESOURCE]:[ADD] The Software GPU, Pruning for Success & More at ODSC East
+[INFO]:[2022-11-13 06:50:19,112]:[Neural Magic Blog] [RESOURCE]:[ADD] Challenging Memory Requirements and Performance Standards in ML
+[INFO]:[2022-11-13 06:50:19,189]:[Neural Magic Blog] [RESOURCE]:[ADD] Contribute to Neural Magic’s First Annual State of Deep Learning Report
+[INFO]:[2022-11-13 06:50:19,262]:[Neural Magic Blog] [RESOURCE]:[ADD] How to Use Machine Learning in Visual Search for Retail
+[INFO]:[2022-11-13 06:50:19,334]:[Neural Magic Blog] [RESOURCE]:[ADD] Counterintuitive Lessons: How to Improve Machine Learning
+[INFO]:[2022-11-13 06:50:19,417]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic is Coming to SXSW 2020: What’s Wrong with AI Computing?
+[INFO]:[2022-11-13 06:50:19,490]:[Neural Magic Blog] [RESOURCE]:[ADD] Built in Boston & Bostinno Honor Neural Magic for Potential
+[INFO]:[2022-11-13 06:50:19,562]:[Neural Magic Blog] [RESOURCE]:[ADD] The Data Exchange Podcast: On Computational Neurobiology and Deep Learning
+[INFO]:[2022-11-13 06:50:19,635]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Demo Video
+[INFO]:[2022-11-13 06:50:20,597]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic at NeurIPS 2019
+[INFO]:[2022-11-13 06:50:20,675]:[Neural Magic Blog] [RESOURCE]:[ADD] GPU Speeds without GPUs: Announcing the Neural Magic Inference Engine
+[INFO]:[2022-11-13 06:50:20,748]:[Neural Magic Blog] [RESOURCE]:[ADD] Neural Magic Announces $15 Million in Seed Funding from Comcast Ventures, NEA, Andreessen Horowitz, Pillar VC and Amdocs
+[INFO]:[2022-11-13 06:50:20,829]:[Neural Magic Blog] [RESOURCE]:[ADD] What is the Infrastructure Phase of Machine Learning?
+[INFO]:[2022-11-13 06:50:20,902]:[Neural Magic Blog] [RESOURCE]:[ADD] Data Scientists Make These 3 Common Mistakes
+[INFO]:[2022-11-13 06:50:20,975]:[Neural Magic Blog] [RESOURCE]:[ADD] Why Machine Learning Needs Academia and Industry to Survive
+[INFO]:[2022-11-13 06:50:21,053]:[Neural Magic Blog] [RESOURCE]:[ADD] Using CNNs for Inference
+[INFO]:[2022-11-13 06:50:21,128]:[Neural Magic Blog] [RESOURCE]:[ADD] A Brief History of GPUs
+[INFO]:[2022-11-13 06:50:21,201]:[Neural Magic Blog] [RESOURCE]:[ADD] Why Software Will Eat the Machine Learning World
+[INFO]:[2022-11-13 06:50:21,279]:[Neural Magic Blog] [RESOURCE]:[ADD] Welcome to Limitless AI
+[INFO]:[2022-11-13 06:50:22,258]:[Neural Magic Blog] [RESOURCE]:[ADD] Machine Learning Inference: Why Use GPUs?

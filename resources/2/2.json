@@ -1,0 +1,93 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 93,
+            "title": "Neural Magic at NeurIPS 2019",
+            "url": "https://neuralmagic.com/blog/neural-magic-at-neurips-2019/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-11-27T00:00:00"
+        },
+        {
+            "id": 94,
+            "title": "GPU Speeds without GPUs: Announcing the Neural Magic Inference Engine",
+            "url": "https://neuralmagic.com/blog/announcing-the-neural-magic-inference-engine/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-11-07T00:00:00"
+        },
+        {
+            "id": 95,
+            "title": "Neural Magic Announces $15 Million in Seed Funding from Comcast Ventures, NEA, Andreessen Horowitz, Pillar VC and Amdocs",
+            "url": "https://neuralmagic.com/blog/neural-magic-announces-15-million-in-seed-funding/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-11-06T00:00:00"
+        },
+        {
+            "id": 96,
+            "title": "What is the Infrastructure Phase of Machine Learning?",
+            "url": "https://neuralmagic.com/blog/what-is-the-infrastructure-phase-of-machine-learning/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-25T00:00:00"
+        },
+        {
+            "id": 97,
+            "title": "Data Scientists Make These 3 Common Mistakes",
+            "url": "https://neuralmagic.com/blog/mistakes-data-scientists-make/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-17T00:00:00"
+        },
+        {
+            "id": 98,
+            "title": "Why Machine Learning Needs Academia and Industry to Survive",
+            "url": "https://neuralmagic.com/blog/machine-learning-needs-academia-and-industry/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-12T00:00:00"
+        },
+        {
+            "id": 99,
+            "title": "Using CNNs for Inference",
+            "url": "https://neuralmagic.com/blog/using-convolutional-neural-networks-for-inference/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-04T00:00:00"
+        },
+        {
+            "id": 100,
+            "title": "A Brief History of GPUs",
+            "url": "https://neuralmagic.com/blog/history-gpus/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-08-06T00:00:00"
+        },
+        {
+            "id": 101,
+            "title": "Why Software Will Eat the Machine Learning World",
+            "url": "https://neuralmagic.com/blog/software-eats-machine-learning/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-08-06T00:00:00"
+        },
+        {
+            "id": 102,
+            "title": "Welcome to Limitless AI",
+            "url": "https://neuralmagic.com/blog/limitless-ai/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-08-06T00:00:00"
+        },
+        {
+            "id": 103,
+            "title": "Machine Learning Inference: Why Use GPUs?",
+            "url": "https://neuralmagic.com/blog/gpus-for-machine-learning-inference/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-08-06T00:00:00"
+        }
+    ]
+}

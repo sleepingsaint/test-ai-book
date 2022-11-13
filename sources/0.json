@@ -1,0 +1,17 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 1,
+            "title": "Distill Pub Blog",
+            "url": "https://distill.pub/",
+            "numResources": 32
+        },
+        {
+            "id": 2,
+            "title": "Neural Magic Blog",
+            "url": "https://neuralmagic.com/blog/",
+            "numResources": 71
+        }
+    ]
+}
