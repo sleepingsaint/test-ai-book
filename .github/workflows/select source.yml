@@ -26,7 +26,7 @@ jobs:
       
       - name: download database
         env:
-          DATABASE_URL: https://raw.githubusercontent.com/${{github.repository}}/db_test/database.db
+          DATABASE_URL: https://raw.githubusercontent.com/${{github.repository}}/db/database.db
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
@@ -64,6 +64,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated database of python sources"
-          branch: db_test
+          branch: db 
           push_options: '--force'
           create_branch: true
