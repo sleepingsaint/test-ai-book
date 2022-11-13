@@ -35,6 +35,17 @@ class Builder(DBClient):
         total = len(sources)
         idx = 0
 
+        if total == 0:
+            data = {
+                "hasNextPage": False,
+                "data": []
+            }
+            path = os.path.join(self.sources_dir, "0.json")
+            with open(path, "w+") as f:
+                json.dump(data)
+            
+            return
+
         while True:
             start = idx * self.source_page_size
             end = start + self.source_page_size
@@ -73,6 +84,17 @@ class Builder(DBClient):
             idx = 0
             
             self.ensureDir(os.path.join(self.resources_dir, str(source_id)))
+
+            if total == 0:
+                path = os.path.join(self.resources_dir, str(source_id), "0.json")
+                data = {
+                    "hasNextPage": False,
+                    "data": []
+                }
+                with open(path, "w+") as f:
+                    json.dump(data)
+                
+                continue
 
             while True:
                 start = idx * self.source_page_size
