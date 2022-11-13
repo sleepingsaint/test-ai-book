@@ -64,6 +64,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated database of python sources"
-          branch: db
+          branch: db_test
           push_options: '--force'
           create_branch: true
