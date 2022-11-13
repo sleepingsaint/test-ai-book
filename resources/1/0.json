@@ -1,0 +1,245 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "Understanding Convolutions on Graphs",
+            "url": "https://distill.pub/2021/understanding-gnns",
+            "authors": "Ameya\u00a0Daigavane, Balaraman\u00a0Ravindran, and Gaurav\u00a0Aggarwal",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2021-09-02T00:00:00"
+        },
+        {
+            "id": 2,
+            "title": "A Gentle Introduction to Graph Neural Networks",
+            "url": "https://distill.pub/2021/gnn-intro",
+            "authors": "Benjamin\u00a0Sanchez-Lengeling, Emily\u00a0Reif, Adam\u00a0Pearce, and Alexander\u00a0B. Wiltschko",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2021-09-02T00:00:00"
+        },
+        {
+            "id": 3,
+            "title": "Distill Hiatus",
+            "url": "https://distill.pub/2021/distill-hiatus",
+            "authors": "Editorial\u00a0Team",
+            "tags": "Editorial",
+            "publishedOn": "2021-07-02T00:00:00"
+        },
+        {
+            "id": 4,
+            "title": "Multimodal Neurons in Artificial Neural Networks",
+            "url": "https://distill.pub/2021/multimodal-neurons",
+            "authors": "Gabriel\u00a0Goh, Nick\u00a0Cammarata \u2020, Chelsea\u00a0Voss \u2020, Shan\u00a0Carter, Michael\u00a0Petrov, Ludwig\u00a0Schubert, Alec\u00a0Radford, and Chris\u00a0Olah",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2021-03-04T00:00:00"
+        },
+        {
+            "id": 5,
+            "title": "Understanding RL Vision",
+            "url": "https://distill.pub/2020/understanding-rl-vision",
+            "authors": "Jacob\u00a0Hilton, Nick\u00a0Cammarata, Shan\u00a0Carter, Gabriel\u00a0Goh, and Chris\u00a0Olah",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2020-11-17T00:00:00"
+        },
+        {
+            "id": 6,
+            "title": "Communicating with Interactive Articles",
+            "url": "https://distill.pub/2020/communicating-with-interactive-articles",
+            "authors": "Fred\u00a0Hohman, Matthew\u00a0Conlen, Jeffrey\u00a0Heer, and Duen\u00a0Horng (Polo) Chau",
+            "tags": "Commentary",
+            "publishedOn": "2020-09-11T00:00:00"
+        },
+        {
+            "id": 7,
+            "title": "Thread: Differentiable Self-organizing Systems",
+            "url": "https://distill.pub/2020/selforg",
+            "authors": "Alexander\u00a0Mordvintsev, Ettore\u00a0Randazzo, Eyvind\u00a0Niklasson, Michael\u00a0Levin, and Sam\u00a0Greydanus",
+            "tags": "Thread",
+            "publishedOn": "2020-08-27T00:00:00"
+        },
+        {
+            "id": 8,
+            "title": "Exploring Bayesian Optimization",
+            "url": "https://distill.pub/2020/bayesian-optimization",
+            "authors": "Apoorv\u00a0Agnihotri and Nipun\u00a0Batra",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2020-05-05T00:00:00"
+        },
+        {
+            "id": 9,
+            "title": "Visualizing Neural Networks with the Grand Tour",
+            "url": "https://distill.pub/2020/grand-tour",
+            "authors": "Mingwei\u00a0Li, Zhenge\u00a0Zhao, and Carlos\u00a0Scheidegger",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2020-03-16T00:00:00"
+        },
+        {
+            "id": 10,
+            "title": "Thread: Circuits",
+            "url": "https://distill.pub/2020/circuits",
+            "authors": "Nick\u00a0Cammarata, Shan\u00a0Carter, Gabriel\u00a0Goh, Chris\u00a0Olah, Michael\u00a0Petrov, Ludwig\u00a0Schubert, Chelsea\u00a0Voss, Ben\u00a0Egan, and Swee\u00a0Kiat Lim",
+            "tags": "Thread",
+            "publishedOn": "2020-03-10T00:00:00"
+        },
+        {
+            "id": 11,
+            "title": "Visualizing the Impact of Feature Attribution Baselines",
+            "url": "https://distill.pub/2020/attribution-baselines",
+            "authors": "Pascal\u00a0Sturmfels, Scott\u00a0Lundberg, and Su-In\u00a0Lee",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2020-01-10T00:00:00"
+        },
+        {
+            "id": 12,
+            "title": "Computing Receptive Fields of Convolutional Neural Networks",
+            "url": "https://distill.pub/2019/computing-receptive-fields",
+            "authors": "Andr\u00e9\u00a0Araujo, Wade\u00a0Norris, and Jack\u00a0Sim",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2019-11-04T00:00:00"
+        },
+        {
+            "id": 13,
+            "title": "The Paths Perspective on Value Learning",
+            "url": "https://distill.pub/2019/paths-perspective-on-value-learning",
+            "authors": "Sam\u00a0Greydanus and Chris\u00a0Olah",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2019-09-30T00:00:00"
+        },
+        {
+            "id": 14,
+            "title": "A Discussion of \u2018Adversarial Examples Are Not Bugs, They Are Features\u2019",
+            "url": "https://distill.pub/2019/advex-bugs-discussion",
+            "authors": "Logan\u00a0Engstrom, Justin\u00a0Gilmer, Gabriel\u00a0Goh, Dan\u00a0Hendrycks, Andrew\u00a0Ilyas, Aleksander\u00a0Madry, Reiichiro\u00a0Nakano, Preetum\u00a0Nakkiran, Shibani\u00a0Santurkar, Brandon\u00a0Tran, Dimitris\u00a0Tsipras, and Eric\u00a0Wallace",
+            "tags": "Commentary",
+            "publishedOn": "2019-08-06T00:00:00"
+        },
+        {
+            "id": 15,
+            "title": "Open Questions about Generative Adversarial Networks",
+            "url": "https://distill.pub/2019/gan-open-problems",
+            "authors": "Augustus\u00a0Odena",
+            "tags": "Commentary",
+            "publishedOn": "2019-04-09T00:00:00"
+        },
+        {
+            "id": 16,
+            "title": "A Visual Exploration of Gaussian Processes",
+            "url": "https://distill.pub/2019/visual-exploration-gaussian-processes",
+            "authors": "Jochen\u00a0G\u00f6rtler, Rebecca\u00a0Kehlbeck, and Oliver\u00a0Deussen",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2019-04-02T00:00:00"
+        },
+        {
+            "id": 17,
+            "title": "Visualizing memorization in RNNs",
+            "url": "https://distill.pub/2019/memorization-in-rnns",
+            "authors": "Andreas\u00a0Madsen",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2019-03-25T00:00:00"
+        },
+        {
+            "id": 18,
+            "title": "Activation Atlas",
+            "url": "https://distill.pub/2019/activation-atlas",
+            "authors": "Shan\u00a0Carter, Zan\u00a0Armstrong, Ludwig\u00a0Schubert, Ian\u00a0Johnson, and Chris\u00a0Olah",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2019-03-06T00:00:00"
+        },
+        {
+            "id": 19,
+            "title": "AI Safety Needs Social Scientists",
+            "url": "https://distill.pub/2019/safety-needs-social-scientists",
+            "authors": "Geoffrey\u00a0Irving and Amanda\u00a0Askell",
+            "tags": "Commentary",
+            "publishedOn": "2019-02-19T00:00:00"
+        },
+        {
+            "id": 20,
+            "title": "Distill Update 2018",
+            "url": "https://distill.pub/2018/editorial-update",
+            "authors": "Distill\u00a0Editors",
+            "tags": "Editorial",
+            "publishedOn": "2018-08-14T00:00:00"
+        },
+        {
+            "id": 21,
+            "title": "Differentiable Image Parameterizations",
+            "url": "https://distill.pub/2018/differentiable-parameterizations",
+            "authors": "Alexander\u00a0Mordvintsev, Nicola\u00a0Pezzotti, Ludwig\u00a0Schubert, and Chris\u00a0Olah",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2018-07-25T00:00:00"
+        },
+        {
+            "id": 22,
+            "title": "Feature-wise transformations",
+            "url": "https://distill.pub/2018/feature-wise-transformations",
+            "authors": "Vincent\u00a0Dumoulin, Ethan\u00a0Perez, Nathan\u00a0Schucher, Florian\u00a0Strub, Harm\u00a0de Vries, Aaron\u00a0Courville, and Yoshua\u00a0Bengio",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2018-07-09T00:00:00"
+        },
+        {
+            "id": 23,
+            "title": "The Building Blocks of Interpretability",
+            "url": "https://distill.pub/2018/building-blocks",
+            "authors": "Chris\u00a0Olah, Arvind\u00a0Satyanarayan, Ian\u00a0Johnson, Shan\u00a0Carter, Ludwig\u00a0Schubert, Katherine\u00a0Ye, and Alexander\u00a0Mordvintsev",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2018-03-06T00:00:00"
+        },
+        {
+            "id": 24,
+            "title": "Using Artificial Intelligence to Augment Human Intelligence",
+            "url": "https://distill.pub/2017/aia",
+            "authors": "Shan\u00a0Carter and Michael\u00a0Nielsen",
+            "tags": "Commentary",
+            "publishedOn": "2017-12-04T00:00:00"
+        },
+        {
+            "id": 25,
+            "title": "Sequence Modeling with CTC",
+            "url": "https://distill.pub/2017/ctc",
+            "authors": "Awni\u00a0Hannun",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2017-11-27T00:00:00"
+        },
+        {
+            "id": 26,
+            "title": "Feature Visualization",
+            "url": "https://distill.pub/2017/feature-visualization",
+            "authors": "Chris\u00a0Olah, Alexander\u00a0Mordvintsev, and Ludwig\u00a0Schubert",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2017-11-07T00:00:00"
+        },
+        {
+            "id": 27,
+            "title": "Why Momentum Really Works",
+            "url": "https://distill.pub/2017/momentum",
+            "authors": "Gabriel\u00a0Goh",
+            "tags": "Peer-reviewed",
+            "publishedOn": "2017-04-04T00:00:00"
+        },
+        {
+            "id": 28,
+            "title": "Research Debt",
+            "url": "https://distill.pub/2017/research-debt",
+            "authors": "Chris\u00a0Olah and Shan\u00a0Carter",
+            "tags": "Commentary",
+            "publishedOn": "2017-03-22T00:00:00"
+        },
+        {
+            "id": 29,
+            "title": "Experiments in Handwriting with a Neural Network",
+            "url": "https://distill.pub/2016/handwriting",
+            "authors": "Shan\u00a0Carter, David\u00a0Ha, Ian\u00a0Johnson, and Chris\u00a0Olah",
+            "tags": "",
+            "publishedOn": "2016-12-06T00:00:00"
+        },
+        {
+            "id": 30,
+            "title": "Deconvolution and Checkerboard Artifacts",
+            "url": "https://distill.pub/2016/deconv-checkerboard",
+            "authors": "Augustus\u00a0Odena, Vincent\u00a0Dumoulin, and Chris\u00a0Olah",
+            "tags": "",
+            "publishedOn": "2016-10-17T00:00:00"
+        }
+    ]
+}
