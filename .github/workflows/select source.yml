@@ -59,10 +59,18 @@ jobs:
       - name: checking modified files
         run: git status
 
-      - name: update the database branch with new resources
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Updated database of python sources"
-          branch: db 
-          push_options: '--force'
-          create_branch: true
+      - name: pushing by own
+        run: |
+          rm -rf .git/
+          git init
+          git add .
+          git commit -m "updated resources"
+          git remote add origin git@github.com:sleepingsaint/test-ai-book.git
+          git push origin main:db --force
+      # - name: update the database branch with new resources
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: "Updated database of python sources"
+      #     branch: db 
+      #     push_options: '--force'
+      #     create_branch: true
