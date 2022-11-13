@@ -30,7 +30,7 @@ jobs:
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
-              curl -s $DATABASE_URL -o database.db
+              wget $DATABASE_URL
               echo "file downloaded"
             else
               echo "database doesn't exists"
